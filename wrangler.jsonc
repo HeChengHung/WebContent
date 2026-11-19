@@ -10,5 +10,17 @@
       "invocation_logs": true,
       "persist": false
 	}
-  }
+  },
+  "secrets_store_secrets": [
+    {
+      "binding": "CHANNEL_ACCESS_TOKEN",
+      "store_id": "d9b675724b5e4d8cb9db8a2b7cf4c4e4",
+      "secret_name": "CHANNEL_ACCESS_TOKEN"
+    },
+    {
+      "binding": "CHANNEL_SECRET",
+      "store_id": "d9b675724b5e4d8cb9db8a2b7cf4c4e4",
+      "secret_name": "CHANNEL_SECRET"
+    }
+  ]  
 }
