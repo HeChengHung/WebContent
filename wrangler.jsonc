@@ -14,6 +14,9 @@
   "vars": {
     "ALLOWED_USER_IDS": "Ud5bf42d4e06b27ec84c70167a83865a3,U024fd32b2c7877ca8593d478ebec482e"
   },  
+  "ai": {
+    "binding": "AI"
+  },  
   "r2_buckets": [
     {
       "binding": "BUCKET",
