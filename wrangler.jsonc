@@ -11,6 +11,9 @@
       "persist": false
 	}
   },
+  "vars": {
+    "ALLOWED_USER_IDS": ""
+  },  
   "secrets_store_secrets": [
     {
       "binding": "CHANNEL_ACCESS_TOKEN",
